@@ -61,15 +61,11 @@ int main() {
     vector<Hero> heroes = {defualtGoodGuys.hero1, defualtGoodGuys.hero2, defualtGoodGuys.hero3, defualtGoodGuys.hero4};
 
     //Vector of villains
-    //TODO: add option to edit villains
     BadGuys defualtBadGuys;
     vector<Villain> villains = {defualtBadGuys.villain1, defualtBadGuys.villain2, defualtBadGuys.villain3, defualtBadGuys.villain4};
 
     GameOperation game = GameOperation();
     game.startUpMenu(); //display start menu
-
-    // TODO: Allow user to select hero from output file
-    // TODO: Clean up battle method
 
     while(keepPlaying){
         game.selectMenu(menuOptions);
