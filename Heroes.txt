@@ -1,0 +1,78 @@
+Yoda
+Hero Type: Jedi
+Health: 120
+Primary Attack: 40
+Secondary Attack: 10
+
+Hulk
+Hero Type: Avenger
+Health: 150
+Primary Attack: 30
+Secondary Attack: 15
+
+Spider-Man
+Hero Type: Avenger
+Health: 150
+Primary Attack: 30
+Secondary Attack: 15
+
+Anakin 
+Hero Type: Jedi
+Health: 120
+Primary Attack: 40
+Secondary Attack: 10
+
+James
+Hero Type: Matrix
+Health: 90
+Primary Attack: 60
+Secondary Attack: 15
+
+James Beast
+Hero Type: Avenger
+Health: 150
+Primary Attack: 30
+Secondary Attack: 15
+
+James Skywalker
+Hero Type: Jedi
+Health: 120
+Primary Attack: 40
+Secondary Attack: 10
+
+Ben10
+Hero Type: Matrix
+Health: 90
+Primary Attack: 60
+Secondary Attack: 15
+
+Metal Man
+Hero Type: Avatar
+Health: 100
+Primary Attack: 30
+Secondary Attack: 15
+
+Pen
+Hero Type: avenger
+Health: 150
+Primary Attack: 30
+Secondary Attack: 15
+
+Phone
+Hero Type: Matrix
+Health: 80
+Primary Attack: 60
+Secondary Attack: 15
+
+Water Bottle
+Hero Type: Jedi
+Health: 120
+Primary Attack: 40
+Secondary Attack: 10
+
+Desk
+Hero Type: avatar
+Health: 100
+Primary Attack: 30
+Secondary Attack: 15
+
